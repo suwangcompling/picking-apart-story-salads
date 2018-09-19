@@ -1,0 +1,401 @@
+FILE ID: 255118.p
+TRUE = 1 | PRED = 0 | partner at goldman will make about $ 7 million to $ 8 million each this year , accord to people at the firm .
+TRUE = 0 | PRED = 1 | sexual issue affect decision range from pregnancy policy to redesign aircraft carrier ( special berth and bathroom for woman ) to readiness for war .
+TRUE = 1 | PRED = 0 | top banker , trader and salesperson at firm such as morgan stanley , merrill and donaldson , lufkin & jenrette inc. will earn $ 5 million or more , executive recruiter and investment banker say .
+TRUE = 1 | PRED = 0 | banker and trader be n't the only one likely to see fat bonus this year as wall street profit surge to record level .
+TRUE = 0 | PRED = 1 | pentagon lawyer be fight challenge to the `` do n't ask , do n't tell '' policy against homosexual .
+TRUE = 0 | PRED = 1 | but UNK be still stumped when UNK come to solve one of UNK most basic problem : sex .
+TRUE = 1 | PRED = 0 | goldman and other security firm can afford to be generous because UNK be on track to earn a record $ 12 billion in pre - tax profit this year .
+TRUE = 1 | PRED = 0 | merrill lynch & co. , goldman and morgan stanley & co. each will earn more than $ 1 billion .
+TRUE = 0 | PRED = 1 | american admiral and general like to boast that UNK carry around contingency plan for war , riot and even hurricane .
+TRUE = 0 | PRED = 1 | america 's military have be deal with the consequence of sex since george washington worry about treat UNK troop for venereal disease .
+TRUE = 1 | PRED = 0 | in an internal memo to employee last week , chairman jon corzine and vice chairman henry paulson say that year - end bonus for support staff will be 25 percent of salary , up from 20 percent last year .
+TRUE = 1 | PRED = 0 | roar stock market and fall interest rate have propel wall street 's core business of stock and bond underwriting , sale and trading , merger and acquisition and asset management .
+TRUE = 0 | PRED = 1 | UNK be not just the recent case of widespread rape and sexual harassment at army training center .
+TRUE = 0 | PRED = 1 | the navy be still recover from the 1991 tailhook debacle where officer assault woman at a convention , and the embarrassment of have 36 woman on a repair ship come home pregnant from the persian gulf war .
+TRUE = 0 | PRED = 1 | today UNK be force to address the issue not as a medical nuisance but as a threat to discipline and order .
+TRUE = 1 | PRED = 0 | secretary and other support staff will share in the wealth , if pay practice at goldman sachs group lp , the big u.s investment banking partnership , be any indication .
+
+
+FILE ID: 169049.p
+TRUE = 0 | PRED = 0 | `` the priority be public safety so UNK need to make sure that UNK have a system that ensure public safety , '' schwartz say .
+TRUE = 1 | PRED = 1 | most of the east coast will be cool and cloudy on saturday as wind from the east direct moisture inland .
+TRUE = 1 | PRED = 1 | patchy drizzle will develop near the appalachians from georgia to upstate new york .
+TRUE = 0 | PRED = 0 | michael o'keefe , president of the massachusetts district attorneys association , say prosecutor grapple with limited resource and difficult choice each time UNK have to decide whether to seek the return of someone who have fail to show up in court after be charge .
+TRUE = 1 | PRED = 0 | meanwhile , coastal shower and mountain snow will reach the pacific northwest .
+TRUE = 0 | PRED = 0 | UNK say the administration and the district attorney will look at who make the decision on whether someone should be seek nationwide , and how UNK be make .
+TRUE = 1 | PRED = 1 | in the west , high pressure will keep most of the interior dry with temperature 5 degree to 15 degree below normal .
+TRUE = 0 | PRED = 0 | kurt n. schwartz , the governor 's public safety undersecretary for law enforcement and fire service , say there be no statewide standard dictate who should be return to massachusetts .
+TRUE = 1 | PRED = 0 | much milder air and rain will arrive from the west on sunday .
+TRUE = 0 | PRED = 0 | as of last week , there be UNK outstanding warrant in massachusetts for people who have skip UNK criminal hearing , accord to court official .
+TRUE = 1 | PRED = 0 | a few inch of snow will fall saturday in many spot from northwestern oklahoma to central iowa .
+TRUE = 0 | PRED = 0 | massachusetts ' top prosecutor and governor deval patrick 's administration will scrutinize the state 's system of handle arrest warrant and consider statewide reform after david t. tavares jr. , a convict killer , jump bail in massachusetts and allegedly kill a newlywed couple in washington state last month .
+TRUE = 0 | PRED = 0 | `` the priority be n't cost saving . ''
+TRUE = 1 | PRED = 0 | as the front sweep east on saturday night , shower will change to locally heavy snow from eastern iowa to wisconsin .
+TRUE = 1 | PRED = 1 | snow will develop in the wake of a cold front as UNK move east from the plains into the mississippi valley .
+TRUE = 0 | PRED = 0 | UNK say the state can not mandate the return of everyone who flee because there be so many of UNK .
+TRUE = 1 | PRED = 1 | ahead of the front , very mild air will be accompany by band of shower from louisiana to the western great lakes .
+
+
+FILE ID: 501530.p
+TRUE = 0 | PRED = 0 | the ncaa suspend university of connecticut basketball player kirk king for the season after review detail of a school investigation that find UNK accept an airline ticket from an agent .
+TRUE = 1 | PRED = 1 | the region produce about 25 percent of brazil 's soybean crop , estimate this year at 26 million metric ton by the u.s. department of agriculture .
+TRUE = 1 | PRED = 1 | soybean future rise amid renewed concern that dry weather in brazil could damage the country 's UNK at a time when u.s. reserve be low .
+TRUE = 0 | PRED = 0 | school official say UNK plan to appeal the ncaa 's decision .
+TRUE = 1 | PRED = 1 | soybean for march delivery rise 5.5 cent to $ 7.50 a bushel on the chicago board of trade , after rise as high as $ UNK earlier in the day .
+TRUE = 1 | PRED = 1 | `` UNK be get to the critical grow stage where UNK need adequate moisture , and if UNK do n't get UNK next week UNK could cut back on yield , '' say analyst greg scheer at doane agricultural services in st. louis .
+TRUE = 0 | PRED = 0 | moore , however , say UNK be unaware that UNK ticket come from an agent .
+TRUE = 0 | PRED = 0 | although the agent be n't name , several report in connecticut newspaper have identify UNK as john lounsbury .
+TRUE = 0 | PRED = 0 | teammate ricky moore be suspend for five game for UNK role in the incident .
+TRUE = 1 | PRED = 1 | soybean price fall yesterday on forecast of rain this weekend in rio grande do sul .
+TRUE = 0 | PRED = 0 | in UNK report , the ncaa say king receive the stiff penalty because UNK know the ticket come from an agent and understand UNK be a violation .
+TRUE = 1 | PRED = 1 | the prospect of low world soybean supply and increase demand also push up price on future of soybean meal , which be use in livestock feed .
+TRUE = 0 | PRED = 0 | `` kirk king make a mistake , '' say connecticut head coach jim calhoun .
+TRUE = 0 | PRED = 0 | the report also state that king lie to investigator during the school 's internal probe last summer .
+TRUE = 1 | PRED = 1 | with south american bean not yet harvest , the u.s. continue to be the top seller of soybean meal .
+TRUE = 1 | PRED = 1 | while up to an inch of rain be forecast for later this week , trader be concerned that UNK wo n't materialize , force brazilian soybean farmer to lower UNK crop estimate .
+TRUE = 0 | PRED = 0 | `` UNK do n't commit any great crime against mankind . ''
+
+
+FILE ID: 52692.p
+TRUE = 1 | PRED = 1 | yearly event such as literacy , math and science night , in which parent learn what UNK child be learn and family get snack and sandwich .
+TRUE = 0 | PRED = 0 | the party recruit and prefer rich candidate , especially in senate race that can cost more than $ 10 million to make a credible run .
+TRUE = 1 | PRED = 1 | but UNK also know UNK must rely heavily on the kid to get through to parent .
+TRUE = 0 | PRED = 0 | `` there be a bias in that direction , UNK think , that be true of both party .
+TRUE = 0 | PRED = 0 | and in the u.s. senate , there be no shortage of wealthy people .
+TRUE = 1 | PRED = 1 | UNK begin talk to the kid , who eventually interpret for UNK parent and make introduction .
+TRUE = 1 | PRED = 1 | now , paul know what will attract UNK family .
+TRUE = 0 | PRED = 0 | a non - partisan study find that more than half of the 100 senator be multimillionaire .
+TRUE = 0 | PRED = 0 | UNK come down to scarcity of money , '' say jonathan UNK , a democratic political consultant .
+TRUE = 0 | PRED = 1 | corrects number in sixth graph :
+TRUE = 1 | PRED = 1 | for two year , paul wait for the mom UNK see walk UNK kid to school to attend UNK monthly coffee .
+TRUE = 1 | PRED = 1 | finally , UNK walk over to the neighborhood park .
+TRUE = 1 | PRED = 1 | principal UNK paul know UNK must reach the parent to help the kid .
+TRUE = 0 | PRED = 0 | despite UNK effort to distinguish UNK , sen. maria cantwell and UNK republican opponent , mike mcgavick , share this trait : both be multimillionaire who make UNK fortune during respite from prior political career .
+TRUE = 0 | PRED = 0 | that be hardly a coincidence , political consultant and activist from both party say .
+TRUE = 1 | PRED = 1 | since then , UNK have spend every day greet parent after school as UNK direct traffic and people on foot .
+
+
+FILE ID: 365801.p
+TRUE = 0 | PRED = 0 | or be UNK , like photograph , a mix of fact , error and wishful illusion ?
+TRUE = 1 | PRED = 1 | a central issue be whether stewart receive any information that could be consider `` insider information '' and whether UNK be aware of UNK and use UNK in make a decision to sell .
+TRUE = 0 | PRED = 0 | the same be true of pieter UNK ( UNK - 1665 ) , UNK contemporary and , in the view of many connoisseur , UNK equal , but who do n't enjoy UNK popular fame .
+TRUE = 0 | PRED = 0 | but be UNK really so true to life ?
+TRUE = 0 | PRED = 0 | thank to vermeer and rembrandt , art of the 17th - century dutch golden age be box - office magic .
+TRUE = 1 | PRED = 1 | follow the conversation , merrill lynch sell UNK share of imclone stock for stewart , for a total of $ 227,000 .
+TRUE = 0 | PRED = 0 | in fact , UNK be often refer to as an architectural portraitist , whose exact eye for measurement , light and detail give UNK picture the accuracy of scientific photograph .
+TRUE = 1 | PRED = 1 | a spokesman for merrill lynch say such conversation be not record by the firm , though conversation in trading room be tap , as be some call to help center from client .
+TRUE = 1 | PRED = 1 | both man be suspend with pay last week by merrill lynch , follow an internal company investigation that raise doubt about early statement that stewart and bacanovic have previously agree to sell UNK stock in imclone if UNK fall below $ 60 a share .
+TRUE = 0 | PRED = 0 | a sociologist could probably come up with reason for this , but one be obvious : both artist be charismatic stylist and humane thinker .
+TRUE = 0 | PRED = 0 | while UNK paint people , often family and friend , UNK paint building : church interior in which the human figure be insignificant or absent .
+TRUE = 1 | PRED = 1 | UNK be not clear whether stewart 's regular broker at merrill lynch , peter bacanovic , or UNK assistant , douglas faneuil , handle the trade .
+TRUE = 1 | PRED = 0 | but if bacanovic and stewart tell different story , UNK may be difficult to prove what be say and what be not .
+TRUE = 1 | PRED = 1 | the securities and exchange commission 's investigation into martha stewart 's sale of imclone share last december be center on what UNK stockbroker may have tell UNK just before the stock be sell , a lawyer involve in the investigation say friday .
+TRUE = 1 | PRED = 1 | stewart 's lawyer have tell congressional investigator that UNK speak to UNK broker by telephone on UNK 27 from an airport in san antonio where UNK jet have stop to refuel en route to a mexico vacation .
+TRUE = 0 | PRED = 0 | subject matter be the variable here .
+TRUE = 1 | PRED = 0 | one person familiar with the investigation say bacanovic be not in the office that day .
+TRUE = 0 | PRED = 0 | hang UNK painting , open the door , crowd appear .
+
+
+FILE ID: 435453.p
+TRUE = 1 | PRED = 0 | manager mike scioscia insist UNK be not a platoon situation , as kennedy will get start against lefty .
+TRUE = 1 | PRED = 0 | but UNK begin this season on the disabled list with a broken bone in UNK right hand and have start only 10 of 22 game .
+TRUE = 1 | PRED = 0 | `` UNK have n't be play good .
+TRUE = 1 | PRED = 0 | with the anaheim angels face UNK second consecutive left - handed starter thursday in cleveland 's chuck finley , left - handed hit second baseman adam kennedy be not in the starting lineup for the second game in a row in favor of david eckstein .
+TRUE = 1 | PRED = 0 | but this season , kennedy be hit a paltry .182 against left - hander .
+TRUE = 0 | PRED = 1 | but when UNK lose UNK job in a downsize in 1983 , UNK decide to go into business for UNK and buy mutt & jeff , a pork - rind manufacturer in east point , UNK , that be establish in 1976 and have about $ 2 million in annual sale .
+TRUE = 0 | PRED = 1 | `` here UNK be a yankee in the south , and UNK do n't even know what a pork skin or pork rind be , '' schaff say .
+TRUE = 0 | PRED = 1 | almost two decade later , with tourist write in for mutt & jeff `` wash pot and bacon rind '' after sample UNK on the way to florida , schaff be curious about e - commerce .
+TRUE = 1 | PRED = 0 | `` yes and no , '' kennedy say when ask if UNK be surprised about not be in the starting lineup two day in a row .
+TRUE = 0 | PRED = 1 | pork - rind manufacturing be a second career for timothy schaff , 56 , who until the early 1980 's be a customer service manager and field engineer for beckman instruments , a maker of medical testing equipment in fullerton , UNK .
+TRUE = 1 | PRED = 0 | UNK ca n't expect to play if UNK ' m not play good . ''
+TRUE = 0 | PRED = 1 | UNK see growth potential and something a big company could n't replicate . ''
+TRUE = 0 | PRED = 1 | `` but UNK be a good company that make and deliver UNK own product that be unique from the major like frito - lay .
+TRUE = 0 | PRED = 1 | amy zuckerman c. 2001 the new york times ( distribute by new york times special features )
+TRUE = 0 | PRED = 1 | schaff , a long island native , move UNK family to richmond , UNK , and then to atlanta for UNK job with beckman .
+TRUE = 1 | PRED = 0 | in fact , kennedy hit good last season against lefty ( .275 ) than UNK ( .263 ) .
+TRUE = 1 | PRED = 0 | kennedy miss only 15 start last year , start 147 game and play in a total of 156 .
+
+
+FILE ID: 246578.p
+TRUE = 0 | PRED = 0 | the whole town shake . ''
+TRUE = 0 | PRED = 1 | the enormous blast belch a tower globe of fire high over this city of 52,000 just west of new haven , level one of the complex 's three - unit , two - story building , destroy nearby car and blow out door and window of several neighbor building , police official say .
+TRUE = 0 | PRED = 1 | west haven 's mayor , h. richard borer jr. , say UNK be at UNK office , look up direction to a golf course where UNK have plan to play on tuesday , when the blast occur .
+TRUE = 1 | PRED = 0 | after throw for UNK yard and 15 touchdown in just seven start as a true freshman , the favorable comparison to peyton manning have already begin .
+TRUE = 1 | PRED = 0 | the discussion be open , honest , with a lot of give and take on both side .
+TRUE = 1 | PRED = 0 | and UNK be n't handle UNK academic properly .
+TRUE = 1 | PRED = 0 | but UNK always end with fulmer deliver the same message .
+TRUE = 0 | PRED = 1 | late tuesday night , state and city fire and police official have not determine the because of the blast _ which many resident initially mistake for an earthquake or a terrorist attack _ but be investigate rumor that neighbor have smell natural gas monday night .
+TRUE = 1 | PRED = 0 | the rise sophomore from california have reach one of UNK major goal the previous fall by become the undisputed starting quarterback at tennessee .
+TRUE = 0 | PRED = 0 | `` UNK shake city hall , '' UNK say , `` and UNK be mile and mile away . ''
+TRUE = 1 | PRED = 0 | clausen be now `` the man , '' and UNK like UNK .
+TRUE = 0 | PRED = 1 | an explosion at a condominium complex rock this shoreline city early on tuesday , kill two resident and injure several .
+TRUE = 0 | PRED = 1 | `` car be just demolish , '' say officer domenic f. vinci of the west haven police , who arrive at the orchard hill complex minute after the explosion , which occur at 3:25 a.m. `` a really nice , big steel door be just crumple in half .
+TRUE = 1 | PRED = 0 | UNK be n't go to the weight room as much as UNK should .
+TRUE = 1 | PRED = 0 | but each week , just about the time clausen be feel really good about UNK , UNK would arrive for UNK regularly schedule meeting with head coach phillip fulmer .
+TRUE = 1 | PRED = 0 | `` UNK be n't throw to UNK receiver as much as UNK should .
+TRUE = 0 | PRED = 0 | fiberglass insulation be in the tree .
+TRUE = 1 | PRED = 0 | UNK be the summer of 2001 and , for casey clausen , life could n't be good .
+TRUE = 1 | PRED = 0 | `` UNK be do just enough to get by , and UNK tell UNK so , '' fulmer say .
+
+
+FILE ID: 131308.p
+TRUE = 0 | PRED = 0 | first , the driver reach through the car 's window to use a punch pad to choose the kind of fuel and how UNK will be pay for .
+TRUE = 1 | PRED = 1 | rock hard again tuesday night by the ottawa senators , the reel new jersey devils may soon get roll out of the stanley cup playoff , perhaps as early as thursday night .
+TRUE = 1 | PRED = 1 | the player continue in the same vein , take unnecessary penalty through the evening and then shout at the referee who call UNK .
+TRUE = 1 | PRED = 1 | the devils make the score respectable and may have generate some momentum for game 5 when UNK score two goal in the final six minute .
+TRUE = 0 | PRED = 0 | part automatic teller machine and part `` lose in space '' robot , the shell smart pump , as UNK be call , aim to fill UNK up without the driver ever have to get out of the car .
+TRUE = 1 | PRED = 1 | daniel alfredsson score three goal for the underdog senator , who be boost by a roaring capacity crowd in the corel center .
+TRUE = 0 | PRED = 0 | then the robotic pump swing into action .
+TRUE = 1 | PRED = 1 | UNK coach , jacques lemaire , begin the day by shout at a new york newspaper reporter whose recent column have displease UNK .
+TRUE = 1 | PRED = 1 | alfredsson also score once in the first period and once in the second .
+TRUE = 0 | PRED = 0 | use sophisticated robotic technology , the smart pump identify the make and model of the car that pull up to UNK , UNK developer say .
+TRUE = 0 | PRED = 0 | a fill - up will take about two minute for the average vehicle , shell official say .
+TRUE = 1 | PRED = 1 | as have be the case for most of this series , the devils seem a step slower than UNK young foe and unable to maintain UNK composure , even after take a 1 - 0 lead .
+TRUE = 0 | PRED = 0 | -0 -
+TRUE = 0 | PRED = 0 | if UNK believe that self - service gasoline station still require a little too much of , well , UNK , consider what the shell oil co. be field testing in sacramento , UNK .
+TRUE = 0 | PRED = 0 | UNK open the car 's fuel door and pump the fuel through a special gasoline cap provide by shell .
+TRUE = 1 | PRED = 1 | alfredsson score UNK third goal at the five - minute mark of the third period , beat devil goalie martin brodeur with a wrist shoot between the skate after power up the right board past devils defenseman scott niedermayer .
+TRUE = 1 | PRED = 1 | the senators , the eighth and lowest - seeded team in the eastern conference , beat the conference champion devils by 4 - 3 to take a three - game - to - one lead in UNK four - of - seven - game first - round series .
+
+
+FILE ID: 436002.p
+TRUE = 1 | PRED = 0 | mafia member deliver to UNK the 10 percent street tax collect from drug dealer and prostitute .
+TRUE = 1 | PRED = 0 | as a so - call general of the texas mexican mafia , robert `` beaver '' perez be by most account a powerful man .
+TRUE = 0 | PRED = 1 | `` UNK see this as be like a heavyweight championship fight , '' astros general manager gerry hunsicker say .
+TRUE = 1 | PRED = 0 | UNK even exercise UNK authority to give the `` green light '' _ mafia code for order a colleague 's execution .
+TRUE = 0 | PRED = 1 | bako have to clearly distance UNK from mitch to win that job at the start of the season . ''
+TRUE = 1 | PRED = 0 | `` this be no john gotti , '' say blair mcleod , UNK court - appoint attorney .
+TRUE = 0 | PRED = 1 | but one UNK do have have be a knock - down , drag - out .
+TRUE = 1 | PRED = 0 | then UNK distribute a share of that to imprison mafia member around the state .
+TRUE = 1 | PRED = 0 | but for all UNK influence , painstakingly illustrate in the six - week trial , the `` general '' be in many way just another guy from san antonio 's poor , mostly mexican - american west side .
+TRUE = 0 | PRED = 1 | `` UNK do n't usually beat the current champ unless UNK knock UNK out .
+TRUE = 0 | PRED = 1 | meluskey
+TRUE = 0 | PRED = 1 | in one corner there be mitch meluskey , who have the inside track to the second catcher 's spot on the roster , along with tony eusebio .
+TRUE = 0 | PRED = 1 | not surprisingly , the astros do n't have many .
+TRUE = 1 | PRED = 0 | on wednesday , perez be one of 10 texas mexican mafia member find guilty of racketeering in a federal case that accuse UNK of plot 15 murder , include the execution of five people .
+TRUE = 1 | PRED = 0 | the twice married father of eight be live in subsidized housing at the time of UNK arrest .
+TRUE = 0 | PRED = 1 | across the ring stand paul bako , whose only hope be to match meluskey blow for blow _ and then some .
+
+
+FILE ID: 435437.p
+TRUE = 0 | PRED = 1 | houston chronicle
+TRUE = 1 | PRED = 0 | se trata de un UNK de metal , de cuatro metro de altura , UNK metro de largo , y cinco UNK de peso .
+TRUE = 0 | PRED = 1 | pittsburgh _ the astros welcome back right fielder moises alou on monday while two other player schedule visit to the doctor .
+TRUE = 1 | PRED = 0 | el robot de UNK se llama dino .
+TRUE = 1 | PRED = 0 | cuando se acerca a un grupo de persona , se UNK hacia ella , y luego se UNK , como si UNK de UNK que hace : si las UNK , si las UNK , o si las UNK .
+TRUE = 1 | PRED = 0 | se trata del robot mas grande jama creado .
+TRUE = 1 | PRED = 0 | UNK su propia fuente de energia que le permite UNK de manera autonoma una vez recibe UNK UNK .
+TRUE = 1 | PRED = 0 | la UNK UNK UNK algunos paso , gira , y comienza a bailar , UNK de izquierda a derecha .
+TRUE = 1 | PRED = 0 | el robot se UNK por el piso con la gracia de un gato .
+TRUE = 0 | PRED = 1 | the club have consider activate UNK prior to the start of a three - game series monday with the pirates .
+TRUE = 0 | PRED = 1 | `` UNK do n't make any sense to force the issue , so UNK will use the time to have UNK re - evaluate and make sure there be nothing serious in there , '' general manager gerry hunsicker say .
+TRUE = 0 | PRED = 1 | meanwhile , reliever doug brocail , who have miss the first two week of the season with a strained right hamstring , fly back to houston and will be evaluate today after experience discomfort in UNK right elbow .
+TRUE = 0 | PRED = 1 | brocail join the team in pittsburgh late sunday night after complete a minor - league rehabilitation assignment over the weekend in round rock .
+TRUE = 0 | PRED = 1 | as expect , alou be activate off the 15-day disabled list after miss the first 12 game of the season with a strained right calf .
+TRUE = 1 | PRED = 0 | frank UNK esta UNK de UNK su nuevo robot .
+TRUE = 0 | PRED = 1 | to make room for alou , the astros place reserve infielder bill spiers on the dl with low back problem .
+
+
+FILE ID: 27858.p
+TRUE = 1 | PRED = 0 | the bond be price to yield 7.22 percent , or 80 basis point more than the 30-year treasury bond .
+TRUE = 0 | PRED = 1 | before long , carter , who plant UNK firmly in the moderate minority of the southern baptist convention , have drift into a full - throated critique of christian fundamentalism and UNK attitude toward lesbian and gay man , woman and jews .
+TRUE = 0 | PRED = 1 | on homosexuality , UNK say : `` UNK ' m not endorse UNK .
+TRUE = 1 | PRED = 0 | a money loser as recently as 1993 , the company have re - emerge as a leader in the computer industry under the leadership of chairman louis gerstner .
+TRUE = 1 | PRED = 0 | international business machines corp. sell $ 850 million of debt that wo n't mature for 100 year , in the large - ever sale of century bond .
+TRUE = 1 | PRED = 0 | as yield fall this autumn , ibm figure that if UNK could sell 100-year debt at a 7 to 7.25 percent rate , `` that would be a terrific opportunity , '' say jeffrey serkes , treasurer of the armonk , new york - base computer maker .
+TRUE = 1 | PRED = 1 | rate `` hit UNK bogey , and UNK jump on UNK . ''
+TRUE = 0 | PRED = 1 | UNK make UNK uncomfortable .
+TRUE = 1 | PRED = 0 | ibm , know among investor as a savvy borrower , sell the bond at a time when treasury yield , which company use to set UNK borrowing rate , have fall to UNK low since march .
+TRUE = 0 | PRED = 1 | but to single UNK out just because UNK do n't do UNK and make a crusade out of UNK , to UNK , be not christian . ''
+TRUE = 0 | PRED = 1 | on jews and god : `` UNK be really grieve when UNK be president to hear the president of the southern baptist convention say that god do n't hear the prayer of a jew .
+TRUE = 0 | PRED = 1 | in an interview after church , carter say UNK `` could easily accept a new moderate baptist denomination '' but say UNK would not recommend such a move because UNK inevitably would lead to split in church like maranatha .
+TRUE = 0 | PRED = 1 | to UNK , that be embarrassing . ''
+TRUE = 0 | PRED = 1 | on the view of some fundamentalist that those who do not accept christ be condemn to hell : `` UNK can not imagine an innocent person be deprive of god 's eternal blessing because UNK do n't have a chance to accept christ . ''
+TRUE = 1 | PRED = 0 | the bond sale , ibm 's first 100-year issue , be another milestone on the road to recovery for a company some investor think may fold a few year ago .
+TRUE = 1 | PRED = 0 | the sale surpass bellsouth corp. 's $ 500 million sale of 100-year debt in november 1995 .
+
+
+FILE ID: 82204.p
+TRUE = 1 | PRED = 0 | the senate overwhelmingly defeat a 30-cent - a - pack increase and debate finally stall in the house after increase of 64 cent to nearly $ 5 a pack be propose .
+TRUE = 1 | PRED = 0 | but no one expect UNK to surface before the legislative session end on april 7 .
+TRUE = 1 | PRED = 0 | as debate intensify in the state capital of annapolis last week , there seem to be no support in the senate for an increase of more than 15 cent .
+TRUE = 0 | PRED = 1 | the shake - up , which give russia UNK most aggressively market - orient government since 1992 , be aim primarily at revive a stall economic program that have create fertile ground for yeltsin 's political opponent .
+TRUE = 1 | PRED = 0 | gov. parris n. glendening of maryland have want to double the cigarette tax of 36 cent a pack , which would have give maryland the high cigarette tax among tobacco - grow state and the fourth high in the country behind washington ( 82.5 cent a pack ) , massachusetts ( 76 ) and michigan ( 75 ) .
+TRUE = 1 | PRED = 0 | the governor be keenly disappointed .
+TRUE = 0 | PRED = 1 | yeltsin 's most important move be name boris nemtsov , 37 , the dynamic governor of a region regard as a showplace of economic change , to serve as one of two first deputy prime minister .
+TRUE = 0 | PRED = 1 | streamline the hierarchy , UNK cut the number of deputy prime minister .
+TRUE = 0 | PRED = 1 | and UNK abolish several ministry , include the ministry of industry and ministry of defense industry , which have be obstacle to economic reform .
+TRUE = 0 | PRED = 1 | president boris yeltsin fill the senior rank of the russian cabinet with economic reformer monday , make good on UNK pledge to overhaul UNK government and quicken the pace of economic change .
+TRUE = 0 | PRED = 1 | but come three day before a summit meeting with president clinton in helsinki , the change be also likely to enhance russia 's plea for a great role in international economic affair .
+TRUE = 1 | PRED = 0 | by friday night , propose increase in the tobacco tax be back in the senate and house committee , where UNK be theoretically still under consideration .
+TRUE = 1 | PRED = 0 | in the house , some lawmaker from tobacco - grow district propose increase so high that UNK have no chance of pass _ which be just the point .
+TRUE = 1 | PRED = 0 | `` however , the odd be obviously against UNK . ''
+TRUE = 1 | PRED = 0 | `` nothing be ever dead until the final banging of the gavel on the last day , '' UNK say .
+TRUE = 1 | PRED = 0 | the tobacco industry , which have endure some setback of late , win a victory last week in maryland that have more to do with local politic than with national health issue .
+TRUE = 0 | PRED = 1 | together with the appointment last week of anatoly chubais , 41 , as the chief architect of economic change , the move give vital responsibility for economic and social policy to two of the country 's most vigorous and most pro - market official .
+TRUE = 0 | PRED = 0 | UNK be not the only move to strengthen the reformer ' hand .
+TRUE = 0 | PRED = 1 | the president elevate other ally of chubais , the other first deputy prime minister .
+
+
+FILE ID: 67011.p
+TRUE = 1 | PRED = 1 | `` UNK think about $ 150 million would be enough to prepare UNK athlete from the present moment until the olympics .
+TRUE = 1 | PRED = 1 | `` yesterday UNK do n't have a single ruble , and just a couple thousand dollar , '' anatoly i. UNK , the `` chief of mission '' of the russian olympic committee in atlanta , say at a news conference wednesday .
+TRUE = 1 | PRED = 0 | that would be normal , '' UNK say when ask how much UNK want to raise .
+TRUE = 0 | PRED = 0 | a fourth executive , debra j. murray , former vice president and treasurer , plead guilty in february to charge relate to the scheme .
+TRUE = 1 | PRED = 0 | `` but UNK can squeeze UNK out with half that much .
+TRUE = 1 | PRED = 1 | UNK say the russian committee have agreement with the country 's leading sport federation to conduct training in the year lead up to the summer game , but at the moment UNK can not pay the federation .
+TRUE = 0 | PRED = 0 | UNK be name with the three other in the sec complaint .
+TRUE = 0 | PRED = 0 | the federal indictment , hand up tuesday by a grand jury and unseal wednesday in us district court in boston , allege the executive for two year routinely record phony profit on sale that have not yet closed or be never make .
+TRUE = 0 | PRED = 0 | david r. earl , 55 , of westford , UNK , former vice president of operation , be charge with make false statement to auditor .
+TRUE = 0 | PRED = 0 | three former executive of kurzweil applied intelligence inc. have be accuse of mislead UNK fraudulently inflate revenue and hide UNK scheme from auditor .
+TRUE = 1 | PRED = 0 | although UNK wo n't be able to develop the science and medicine , the thing that be suffer most of all . ''
+TRUE = 0 | PRED = 0 | all three wednesday , through UNK attorney , deny the charge .
+TRUE = 0 | PRED = 0 | in parallel action , the us securities and exchange commission bring civil security fraud charge against the three executive plus another former executive of kurzweil , a waltham , UNK company that make voice - recognition system .
+TRUE = 1 | PRED = 1 | russia 's olympic committee , strain to put together UNK first wholly russian team for next year 's summer game in atlanta , be virtually bankrupt .
+TRUE = 1 | PRED = 0 | UNK tick off a string of accumulate problem , most of UNK leave over from the breakup of the soviet union , but in the end UNK optimistically predict enough fund somehow will be collect .
+TRUE = 0 | PRED = 0 | bernard f. bradstreet , 50 , of sudbury , UNK , kurzweil 's former president , and thomas e. campbell , 61 , of acton , UNK , the company 's former vice president of sale , be accuse of conspiracy , security fraud and make false statement to auditor .
+
+
+FILE ID: 553411.p
+TRUE = 0 | PRED = 0 | as part of a faculty exchange program , UNK also be study chinese culture .
+TRUE = 1 | PRED = 1 | after wander through a mucky tent compound that house ethnic albanians in macedonia and albania last weekend , a group of house member return to say UNK be awe - strike by the scale of human suffering trigger by the kosovo war .
+TRUE = 1 | PRED = 0 | UNK could be a major health problem . ''
+TRUE = 1 | PRED = 1 | u.s. rep. tony hall ( d - dayton , ohio ) be the ranking democrat on the trip lead by majority leader richard armey of texas , which return sunday night after visit one refugee camp , two air base and nato headquarters in brussels .
+TRUE = 1 | PRED = 0 | `` a lot of people be talk about the winter , but UNK better worry about the summer .
+TRUE = 0 | PRED = 0 | shanghai , china _ UNK teach two class of first - year student wednesday .
+TRUE = 1 | PRED = 1 | UNK say the u.s. must plan to spend more for humanitarian relief .
+TRUE = 0 | PRED = 0 | UNK , like student from all the major university , have be involve in the demonstration ( against nato ) , and do generally believe the bombing ( of china 's embassy in belgrade last week ) be intentional .
+TRUE = 0 | PRED = 0 | the time reference be in shanghai time , which be 15 hour ahead of seattle time .
+TRUE = 1 | PRED = 1 | and even as UNK express fear at the prospect of refugee still live in tent when winter come , UNK say UNK be pleased by the optimism america 's strained military still hold about fulfil UNK mission to drive serb force from kosovo .
+TRUE = 0 | PRED = 0 | in the wake of nato 's accidental bombing of china 's embassy in belgrade , yugoslavia , last friday , UNK describe the tension in shanghai in e - mail message to the seattle post - intelligencer .
+TRUE = 0 | PRED = 0 | here be excerpt .
+TRUE = 1 | PRED = 1 | hall , a veteran of refugee camp visit around the world , say condition at the crowded camp in skopje , macedonia , be bad but orderly .
+TRUE = 0 | PRED = 0 | UNK be a sad statement about UNK relation with the chinese people .
+TRUE = 1 | PRED = 1 | `` UNK go because a million people be in misery , '' hall say .
+TRUE = 0 | PRED = 0 | editor 's note : rosemary UNK , a faculty member at highline community college in des moines , UNK , for nine year , be teach english this academic year at shanghai jiao tong university in china .
+
+
+FILE ID: 465593.p
+TRUE = 0 | PRED = 0 | a senior u.s. official say that the u.s. counter - terrorism center , base at the cia , `` feel strongly that there be as much and as rich evidence from a wide variety of source on this case as UNK have ever have . ''
+TRUE = 1 | PRED = 1 | however , in an effort to establish UNK as tough trainer , some indoor cycling instructor be push UNK student unnecessarily .
+TRUE = 1 | PRED = 1 | the big problem be when instructor mimic the side - to - side action that naturally occur when bicyclist pedal while not seat , such as when rid uphill or in a sprint .
+TRUE = 0 | PRED = 1 | `` there be a confluence of event , '' say a senior u.s. official .
+TRUE = 1 | PRED = 1 | UNK be low impact , high cardiovascular and fun .
+TRUE = 1 | PRED = 1 | the bicycle sway underneath UNK and UNK body stay ( vertical ) . ''
+TRUE = 0 | PRED = 1 | if UNK do n't take action , UNK be go to get hit , there be no doubt in UNK mind . '
+TRUE = 0 | PRED = 0 | president clinton order strike on terrorist - link facility in sudan and afghanistan after obtain credible evidence that lead member of the international terrorist network sponsor by saudi exile osama bin laden , who u.s. official believe be behind the bombing of two u.s. embassy in africa , would be gather thursday at a terrorist camp in afghanistan to plan further attack against the united states .
+TRUE = 0 | PRED = 0 | UNK continue , `` UNK information be convincing , and UNK have a high confidence level that these bombing be plan and carry out by bin laden 's network .
+TRUE = 1 | PRED = 1 | UNK be not surprising that indoor cycling _ or `` spin '' _ have catch on with UNK around the country .
+TRUE = 0 | PRED = 0 | senior u.s. official say the fact that the united states have gather such compelling evidence link bin laden to the embassy bombing , couple with information concern the schedule terrorist conference , lead clinton to plan the strike for thursday .
+TRUE = 1 | PRED = 1 | `` when UNK ask instructor why UNK be lean UNK body leave and right to try to simulate what a bicyclist do , UNK tell UNK , ` that be how UNK do UNK outside , ' '' say peter fair , studio cycling director at mid valley athletic club in reseda .
+TRUE = 0 | PRED = 0 | the u.s. strike also come after u.s. intelligence and law enforcement agency have gather what official describe as the strong evidence ever obtain in a major terrorist case , prove that bin laden be behind the embassy bombing .
+TRUE = 1 | PRED = 1 | UNK be into unnecessarily high cadence and improper movement on the stationary bike to emulate the motion of a bicyclist .
+TRUE = 0 | PRED = 1 | and UNK have compelling evidence that bin laden and UNK organization be plan further attack .
+TRUE = 1 | PRED = 1 | much of this be because while UNK be fit , many instructor be not cyclist .
+TRUE = 1 | PRED = 1 | `` that be just not true .
+TRUE = 0 | PRED = 1 | u.s. official say UNK wo n't be able to assess the damage do at the terrorist camp until friday .
+TRUE = 0 | PRED = 0 | by target the meeting , the united states hop to badly damage the `` infrastructure '' of bin laden 's terrorist network .
+
+
+FILE ID: 468952.p
+TRUE = 1 | PRED = 0 | rowland say stayner , a 37-year - old janitor at the cedar lodge in el portal , on yosemite 's western edge , have give a detailed account of how UNK have kill carole sund , 42 , UNK daughter juli sund , 15 , and UNK friend silvina pelosso , 16 .
+TRUE = 1 | PRED = 1 | UNK kill all three woman , cary stayner tell a television reporter on monday night .
+TRUE = 0 | PRED = 1 | but no one be complain .
+TRUE = 1 | PRED = 0 | UNK say UNK have dream of kill woman for 30 year before UNK find UNK moment this february , when a middle - aged woman and two teen - ager on a sightseeing trip to yosemite national park happen to take a room at the motel where UNK work as a janitor .
+TRUE = 1 | PRED = 0 | in UNK , rowlands report that stayner say UNK plan to plead guilty to the armstrong kill when UNK be arraign in fresno on UNK 6 and that UNK also want to plead guilty to the other killing , with which UNK have not yet be charge .
+TRUE = 1 | PRED = 1 | UNK disappearance from the cedar lodge on UNK 15 generate a vast investigation and national headline .
+TRUE = 0 | PRED = 1 | much cool than in 1991 , mia hamm recall , when the u.s. team fly into new york after win the first woman 's world championship .
+TRUE = 1 | PRED = 1 | then UNK lay low , escape suspicion of the fbi when UNK be interview later in february by UNK agent , who then focus on a group of ex - convict as suspect .
+TRUE = 0 | PRED = 1 | `` UNK ' m so tired UNK ca n't even give UNK good quote right now , '' kate sobrero say .
+TRUE = 1 | PRED = 0 | in a 25-minute jailhouse interview in sacramento only hour after UNK be charge in federal court there with the murder of ms. armstrong , stayner tell the reporter , ted rowlands of UNK - tv in san francisco , that UNK have fantasize since childhood about murder woman and have kill these four `` because UNK be at the wrong place at the wrong time . ''
+TRUE = 0 | PRED = 1 | by 6 a.m. , the u.s. woman 's soccer team be leave UNK midtown hotel and step onto a charter bus .
+TRUE = 0 | PRED = 1 | `` UNK ' m just so exhausted . ''
+TRUE = 1 | PRED = 1 | the interview be conduct off - camera and report monday on the late news .
+TRUE = 0 | PRED = 0 | UNK plane from anaheim , UNK , land at newark international airport at 4 a.m. monday , and UNK slip into new york city while UNK be doze .
+TRUE = 0 | PRED = 1 | a blizzard of morning television show await the 1999 women 's world cup champion , news medium attention that UNK think be cool .
+TRUE = 0 | PRED = 1 | most of the player have not have time to sleep .
+TRUE = 1 | PRED = 1 | but last week , UNK say , UNK could no longer resist the temptation to kill again , and UNK decapitate a 26-year - old yosemite naturalist , joie ruth armstrong .
+
+
+FILE ID: 169946.p
+TRUE = 1 | PRED = 0 | UNK have to pitch a hasty commercial before the set fall down . ''
+TRUE = 1 | PRED = 0 | `` one morning , UNK have a panther and UNK trainer on the show , '' UNK say .
+TRUE = 0 | PRED = 1 | sen. alfonse d'amato say friday that house speaker newt gingrich have misread the voter ' mandate in the 1994 congressional election and have press policy and oratory that be now threaten bob dole 's presidential hope .
+TRUE = 1 | PRED = 0 | `` UNK be stand in front of the set , which have a window where UNK would come up .
+TRUE = 1 | PRED = 0 | UNK ' ve get to go out there and do UNK without the net . ''
+TRUE = 1 | PRED = 0 | the panther see this darting figure and lunge immediately , break the glass and push the set back .
+TRUE = 1 | PRED = 0 | vern pop up as UNK and begin to dart around as UNK be talk .
+TRUE = 0 | PRED = 0 | `` newt gingrich be a smart guy , but UNK misread the 1994 election , '' d'amato continue .
+TRUE = 1 | PRED = 0 | UNK do n't have any cue card .
+TRUE = 0 | PRED = 1 | `` instead of move conservatively to reduce the scope of government , '' d'amato say , `` UNK move too quickly in too many area and create a sense of unease about who UNK be and what UNK believe in .
+TRUE = 1 | PRED = 0 | if UNK do n't have spontaneity , UNK get boring .
+TRUE = 0 | PRED = 1 | nonetheless , the remark by d'amato , who be chairman of dole 's national steering committee and one of UNK first supporter , reflect continue concern among some of dole 's senior adviser that gingrich 's political problem be shadow dole 's presidential campaign .
+TRUE = 1 | PRED = 0 | `` UNK be create a situation and find out thing .
+TRUE = 0 | PRED = 1 | on a second , if less immediate , political battlefront , d'amato 's criticism mark UNK late effort to distance UNK from the kind of conservative congressional politic that analyst say be contribute to d'amato 's problem at home as UNK prepare for a re - election campaign two year away .
+TRUE = 1 | PRED = 0 | `` UNK like to think UNK ' m do that , '' UNK say .
+TRUE = 0 | PRED = 1 | UNK say that as a result , UNK be concerned about the political future , not only for dole , who be the senate majority leader and presumptive republican presidential nominee , but also for house and senate candidate like UNK .
+TRUE = 1 | PRED = 0 | hayne could have use a net at least once during the live telecast year .
+TRUE = 0 | PRED = 1 | d'amato , a close adviser to dole , say that UNK be speak on UNK own initiative in attack the politically unpopular speaker and that UNK be not do the bidding of dole 's campaign .
+TRUE = 0 | PRED = 0 | UNK unfortunately leave the impression , wrongly in UNK judgment , that UNK be exclusive and lacked compassion .
+
+
+FILE ID: 544620.p
+TRUE = 1 | PRED = 0 | much of `` angela 's ashes '' be shoot on location in ireland , and watson acknowledge that UNK often `` get a bit low '' during the filming .
+TRUE = 1 | PRED = 0 | and why not ?
+TRUE = 0 | PRED = 1 | that be what the dodgers will attempt to do today as UNK speak with various club , include the colorado rockies and chicago cubs .
+TRUE = 0 | PRED = 0 | `` what UNK be look at be try to get UNK all do at once .
+TRUE = 0 | PRED = 1 | instead , the dodgers be willing to make small deal in hope of trim payroll and add depth to the bench and bullpen .
+TRUE = 0 | PRED = 0 | UNK think what UNK be go to have to focus on be begin the process , put UNK in position to get this accomplish on a step - by - step basis . ''
+TRUE = 1 | PRED = 0 | at the moment , though , stride into a suite room at manhattan 's essex house to discuss UNK late celluloid UNK , alan parker 's adaptation of frank mccourt 's best - sell childhood memoir `` angela 's ashes , '' watson be ... grin from ear to ear .
+TRUE = 0 | PRED = 1 | learn the painful lesson that team be n't willing to absorb a $ 15 million contract for a free - agency - bind pitcher and a marginal infielder , the los angeles dodgers alter UNK plan of attack .
+TRUE = 1 | PRED = 0 | angela 's silent suffering make UNK all the easy to succumb .
+TRUE = 0 | PRED = 1 | no longer will the dodgers mandate a club take either jose vizcaino or eric young in order to acquire right - hander ismael valdes , a source say .
+TRUE = 1 | PRED = 0 | set in the grim , sodden slum of limerick , ireland , the just - release drama cast watson as angela mccourt , put - upon mother of frank ( play at different age by three young actor ) and UNK assorted sibling , and wife of malachy ( robert carlyle ) , a well - mean alcoholic who ca n't keep a job and eventually abandon the family .
+TRUE = 1 | PRED = 0 | emily watson smile _ detail at 11 !
+TRUE = 0 | PRED = 1 | `` UNK may have to do some deal that would lead to UNK do other deal , '' dodgers general manager kevin malone say .
+TRUE = 0 | PRED = 1 | rockie general manager dan o'dowd be expect to make another heavy push to acquire valdes , who will be a free agent after the 2000 season and , be arbitration eligible , be expect to earn approximately $ 6 million this upcoming season .
+TRUE = 1 | PRED = 0 | the two - time oscar nominee love `` angela 's ashes , '' and have fly in from the budapest set of UNK next movie specifically to talk about UNK .
+TRUE = 1 | PRED = 0 | the british actress have portray serious , damaged character so often _ most notably in the danish film `` break the waves '' ( 1995 ) , the irish - trouble drama `` the boxer '' ( 1997 ) and the classical - music tragedy `` hilary and jackie '' ( 1998 ) _ that audience across the globe believe that dark cloud accompany UNK everywhere and that UNK break into tear on an hourly basis .
+
+
+FILE ID: 405826.p
+TRUE = 1 | PRED = 1 | lauder , whose mother found estee lauder cos . , create central european media in 1994 .
+TRUE = 1 | PRED = 1 | UNK say UNK have not donate money to the democrats but have be invite to the event by bennett lebow , an american businessman whose interest include liggett group , the big cigarette manufacturer .
+TRUE = 1 | PRED = 0 | UNK predict last year that the company would have annual revenue of $ 1 billion within five year , but UNK have run up steady loss to date .
+TRUE = 0 | PRED = 0 | fischer share be rise 1/8 to close at 5 UNK 1/4 today .
+TRUE = 0 | PRED = 0 | fischer imaging corp. get UNK second food and drug administration warning letter in two year for fail to have proper quality control in UNK denver plant .
+TRUE = 0 | PRED = 0 | anthony UNK , the company 's vice president for sale and marketing , say fischer be in the process of respond to the fda .
+TRUE = 0 | PRED = 0 | the company put together a team to address the issue raise in the letter and respond to the fda , UNK add .
+TRUE = 0 | PRED = 0 | in may 1995 , the company receive a similar letter from the fda about quality control and resolve all the issue with the fda , UNK say .
+TRUE = 1 | PRED = 1 | when the company seek to enter the ukraine market a year ago , fertig say , UNK executive be refer to rabinovich and UNK partner in studio 1 ( plus ) 1 by UNK volkov , an assistant and close adviser to kuchma .
+TRUE = 1 | PRED = 0 | the company report last month that UNK lose $ 30 million in 1996 compare with loss of $ 18.7 million in 1995 and $ 20.5 million in 1994 .
+TRUE = 1 | PRED = 1 | the photograph be take in late 1995 at a democratic fund - raise party in miami , rabinovich say .
+TRUE = 1 | PRED = 1 | along with the recommendation from the presidential adviser , the company executive also be impressed by a photograph in rabinovich 's office that show UNK with president clinton and vice president al gore , accord to a person close to the company .
+TRUE = 0 | PRED = 0 | in UNK march 19 letter , the fda cite the company for fail to put in place proper program for inspect , testing and assure the overall quality of UNK x - ray and mammography system .
+TRUE = 0 | PRED = 0 | the fda also say the denver - base company sometimes fail to investigate why component do n't meet pre - set standard in manufacturing .
+TRUE = 1 | PRED = 1 | western diplomat and businessman say volkov also own a piece of studio 1 ( plus ) 1 , but fertig say UNK be unaware of that investment .
+TRUE = 0 | PRED = 1 | `` UNK be fairly normal in the x - ray business '' to receive such a letter , UNK say .
+
+
+FILE ID: 193318.p
+TRUE = 1 | PRED = 1 | most people pass through the UNK blockade _ a noisy , sweaty , garbage - strew , dust - choke maelstrom just north of jerusalem _ would say that amin 's idea of easy be , in fact , most difficult .
+TRUE = 1 | PRED = 1 | `` easy '' have become a relative word , for UNK and for many ten of thousand of other palestinians who be trap in UNK town unless UNK can get past israeli roadblock that have divide the west bank and the gaza strip into virtual canton .
+TRUE = 0 | PRED = 0 | `` but the challenge be that there be a lot of production expense and the operational expense in term of find the right mailing list , and so forth , '' UNK say .
+TRUE = 0 | PRED = 1 | in the past , hoover say , UNK have experiment with other direct mailing effort .
+TRUE = 0 | PRED = 1 | `` UNK be not a big fee . ''
+TRUE = 1 | PRED = 1 | `` UNK never can tell , '' amin say .
+TRUE = 0 | PRED = 0 | chuck hoover , the company 's vice president for marketing , say UNK have recently test direct - mail advertising by include insert in american express bill .
+TRUE = 1 | PRED = 1 | this be where UNK find out if UNK will take forever for UNK to get to work in jerusalem , or just horribly long .
+TRUE = 0 | PRED = 0 | `` UNK pay to produce the insert , and UNK be pay amex for the mile when someone buy a car , '' hoover say .
+TRUE = 0 | PRED = 0 | and because UNK track the response rate with american express , hoover say , UNK company gather useful demographic and geographic information about the type of customer who respond to such offer through the mail .
+TRUE = 0 | PRED = 0 | but some company , like UNK , have find way to reduce the cost of direct mail .
+TRUE = 1 | PRED = 1 | a roll of the eye say UNK all .
+TRUE = 1 | PRED = 1 | this be where the miserable part of dr. dima amin 's day kick in , on the stretch of broken road run past a palestinian refugee camp .
+TRUE = 0 | PRED = 0 | from april to june , american express mail 4.1 million insert promote an offer of 10,000 frequent - flier mile for customer who buy car on UNK .
+TRUE = 1 | PRED = 1 | `` UNK make UNK so stressed , '' UNK say , `` every single day . ''
+TRUE = 1 | PRED = 1 | `` sometimes UNK be easy , other time ... '' UNK do not finish the sentence .
+TRUE = 1 | PRED = 1 | UNK do not have to .
+TRUE = 0 | PRED = 0 | hoover do not disclose how much the mailing cost , but UNK indicate that UNK be much less than conventional mailing , because american express essentially pay the postage .
+
+

@@ -1,0 +1,2 @@
+model_checkpoint_path: "mutual-attention-plus-context"
+all_model_checkpoint_paths: "mutual-attention-plus-context"

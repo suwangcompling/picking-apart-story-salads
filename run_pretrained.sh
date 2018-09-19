@@ -1,0 +1,27 @@
+python3 psc_kmed.py \
+  --batch_size=32 \
+  --vocab_size=100001 \
+  --emb_size=300 \
+  --n_layer=2 \
+  --hid_size=100 \
+  --keep_prob=1.0 \
+  --learning_rate=0.00001 \
+  --n_epoch=3 \
+  --train_size=10 \
+  --verbose=1 \
+  --save_freq=5 \
+  --data_dir=nyt_sample/ \
+  --info_path=indexer/indexer_word2emb.p \
+  --init_with_glove=1 \
+  --save_dir=temp/ \
+  --save_name=temp-model \
+  --restore_dir=pretrained_model/ \
+  --restore_name=mutual-attention-plus-context.meta \
+  --load_from_saved=1 \
+  --track_dir=temp/ \
+  --new_track=0 \
+  --session_id=None \
+  --mutual_attention=1 \
+  --context=1 \
+  --context_length=500 \
+  --out_file_path=out.txt
