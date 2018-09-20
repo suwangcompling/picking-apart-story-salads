@@ -3,6 +3,7 @@
 Su Wang, Eric Holgate, Greg Durrett and Katrin Erk. [Picking Apart Story Salads](http://suwangcompling.com/wp-content/uploads/2018/09/emnlp-2018-official.pdf). EMNLP 2018.
 
 **NB: the repo is under development. Convenience facilities will be added in the coming weeks!**
+**NB: the Gigaword dataset is under copyright protection, thus we cannot post it here. We are, however, working on a secure data reader. It is expected to be posted mid October.**
 
 ### USE
 Download the code and place them in a single folder, then also download the (large) indexer directory in this [goole drive folder](https://drive.google.com/drive/folders/1n2yUvb0L-aVOJxzYEzI0q4aLtk7Mi__x?usp=sharing), placed in the sample folder (two directories: indexer and temp). Run `sh run_pretrained.sh` to see results on 20 samples from the Gigaword (NYT). The clustering results will appear in the `out.txt` file (sample output is prepared in the current file). Due to publishing restrictions, we will upload a document reader for the Gigaword dataset soon.
