@@ -4,11 +4,11 @@ Su Wang, Eric Holgate, Greg Durrett and Katrin Erk. [Picking Apart Story Salads]
 
 **NB: Data will be out in the coming week right before the conference!**
 
-### Use Pretrained Model
+## Use Pretrained Model
 
 Download the code and place them in a single folder, then also download the (large) indexer directory in this [goole drive folder](https://drive.google.com/drive/folders/1n2yUvb0L-aVOJxzYEzI0q4aLtk7Mi__x?usp=sharing), placed in the sample folder (two directories: indexer and temp). Run `sh run_pretrained.sh` to see results on 20 samples from the Gigaword (NYT). The clustering results will appear in the `out.txt` file (sample output is prepared in the current file). Due to publishing restrictions, we will upload a document reader for the Gigaword dataset soon.
 
-### Train Your Own Model
+## Train Your Own Model
 
 * **Data prep**
 
