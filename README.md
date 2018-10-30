@@ -10,11 +10,11 @@ Download the code and place them in a single folder, then also download the (lar
 
 ### Train Your Own Model
 
-* Data Prep
+* **Data prep**
 
 Prepare three objects: document a, document b, and the document mixture (details in the paper), which are lists of sentences, with each sentence being a list of words. Then use the `Indexer` object prepared (in the indexer directory, named `indexer_word2emb.p`, loaded with `indexer, word2embedding = dill.load(open(path, 'rb'))` command) to convert the words to indices. Finally pickle the index lists with `dill.dump((document_a, document_b, document_mixture), open(path, 'wb'))` and place under a folder. To run, redirect the `.sh` file by replacing the default `--data_dir` option there with the path to this folder.
 
-* Train pairwise classifier for clustering
+* **Train pairwise classifier for clustering**
 
 Make a shell script like this (customize directories to your own):
 ```
