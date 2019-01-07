@@ -2,8 +2,6 @@
 
 Su Wang, Eric Holgate, Greg Durrett and Katrin Erk. [Picking Apart Story Salads](http://suwangcompling.com/wp-content/uploads/2018/09/emnlp-2018-official.pdf). EMNLP 2018.
 
-**NB: Data will be out in the coming week right before the conference!**
-
 ## Data
 
 * **Wiki**: [google drive folder](https://drive.google.com/drive/folders/1-K2rRZu0nWIl37JPv4yc25NWOSps1diI?usp=sharing)
